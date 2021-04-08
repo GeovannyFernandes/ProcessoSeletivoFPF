@@ -22,3 +22,8 @@
  .espacamento{
     margin: 5px;
 }
+
+dialog{
+     border: 0 solid;
+}
+
